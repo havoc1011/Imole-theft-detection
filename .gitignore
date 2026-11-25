@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# Never commit data (SGCC download, DisCo or station records)
+data/*
+!data/README.md
+*.xlsx
+*.zip
+*.z0*
