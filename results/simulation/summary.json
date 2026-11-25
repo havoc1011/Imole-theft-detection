@@ -1,0 +1,55 @@
+{
+ "n_train_dt": 160,
+ "n_test_dt": 60,
+ "customers_per_dt": 90,
+ "test_customers": 5400,
+ "test_thieves": 250,
+ "test_solar": 541,
+ "test_vacant": 229,
+ "customer_only_solar_in_top5_pct": 0.18484288354898337,
+ "customer_only_vacant_in_top5_pct": 5.240174672489083,
+ "plus_phase_balance_solar_in_top5_pct": 0.18484288354898337,
+ "plus_phase_balance_vacant_in_top5_pct": 6.986899563318777,
+ "plus_street_meters_solar_in_top5_pct": 0.36968576709796674,
+ "plus_street_meters_vacant_in_top5_pct": 3.056768558951965,
+ "phase_auc": 0.9745553359683793,
+ "phase_acc": 0.8777777777777778,
+ "segment_auc": 0.9883141966980812,
+ "segment_acc": 0.9680555555555556,
+ "segments_with_theft_pct": 27.361111111111114,
+ "illegal_connections": 29,
+ "illegal_segments_flagged_pct": 100.0,
+ "field_visits": 153,
+ "planned_visit_catch_pct": 98.69281045751634,
+ "random_visit_catch_pct": 49.673202614379086,
+ "visit_by_type": {
+  "night_bypass": {
+   "planned": 95.83333333333333,
+   "random": 0.0,
+   "n": 48
+  },
+  "full_bypass": {
+   "planned": 100.0,
+   "random": 68.08510638297872,
+   "n": 47
+  },
+  "meter_tamper": {
+   "planned": 100.0,
+   "random": 61.53846153846154,
+   "n": 13
+  },
+  "partial_bypass": {
+   "planned": 100.0,
+   "random": 100.0,
+   "n": 12
+  },
+  "gradual_bypass": {
+   "planned": 100.0,
+   "random": 72.72727272727273,
+   "n": 33
+  }
+ },
+ "narrow_customers_in_flagged_segments_pct": 24.90740740740741,
+ "narrow_thieves_in_flagged_segments_pct": 85.2,
+ "narrow_avg_customers_per_flagged_segment": 11.208333333333334
+}

@@ -1,0 +1,6 @@
+ttype,n,found_top5_pct
+full_bypass,55.0,85.45454545454545
+gradual_bypass,54.0,61.111111111111114
+meter_tamper,50.0,26.0
+night_bypass,50.0,96.0
+partial_bypass,41.0,29.268292682926827

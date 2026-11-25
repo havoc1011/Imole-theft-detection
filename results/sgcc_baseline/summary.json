@@ -1,0 +1,12 @@
+{
+ "customers": 42372,
+ "thieves": 3615,
+ "normal": 38757,
+ "days": 1034,
+ "months": 34,
+ "missing_rate": 0.2563992023490568,
+ "test_size": 12712,
+ "test_thieves": 1085,
+ "base_rate": 0.08531577456811101,
+ "rf_monthly_features_only_auc": 0.7285623126530136
+}

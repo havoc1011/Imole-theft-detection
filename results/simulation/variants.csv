@@ -1,0 +1,4 @@
+variant,auc,thieves_found_top5_pct,hit_rate_top5_pct,honest_low_users_flagged_per_100_inspections,budget_visits,budget_hit_rate_pct,budget_thieves_found_pct,budget_visits_to_clean_dts_pct
+customer_only,0.9601673786407767,58.4,48.666666666666664,4.333333333333333,162,88.88888888888889,57.6,4.320987654320987
+plus_phase_balance,0.9773211650485437,56.0,46.666666666666664,5.666666666666667,162,91.35802469135803,59.2,0.0
+plus_street_meters,0.9877149514563108,61.2,51.0,3.0,162,95.67901234567901,62.0,0.0
